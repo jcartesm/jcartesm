@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Bienvenido a mi perfil!!
+
+<p align="center"><img src="animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+# WELCOME MY PROFILE
 <div align="center">
   <a href="https://github.com/jcartesm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcartesm&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -44,3 +48,23 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/playlist/4SgECL3AwTsBwd2TNsmkEe?si=cdfafb25f3dc4899)
+
+---
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
+
+
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+
+
+<img src="https://imgur.com/rilHVxA.png"/> 
+
+
